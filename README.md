@@ -77,5 +77,5 @@ Dentro do loop, são solicitadas as condições ambientais (umidade do ar, níve
 Depois disso, o programa pergunta ao usuário se ele deseja realizar outra análise ou sair. Se a resposta for "V", o loop continua e uma nova análise pode ser feita. Se a resposta for "S", o loop é interrompido e uma mensagem de saída é exibida agradecendo-o por usar o serviço.
 
 ---
-##### Obs: Para mais informações, acesse nosso [github](https://github.com/lifesustent/Sprint.4.Python.git)
+##### Obs: Para mais informações, acesse nosso [github](https://github.com/lifesustent/python-sprint-03)
 ---
