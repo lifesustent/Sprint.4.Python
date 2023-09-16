@@ -1,4 +1,4 @@
-# SPRINT 04 - ESR1
+# SPRINT 03 - ESR1
 ---
 
 ## Alunos
@@ -75,3 +75,7 @@ Em seguida, o programa pede para que o usuario faça login, utilizando o e-mail 
 Dentro do loop, são solicitadas as condições ambientais (umidade do ar, nível de monóxido de carbono e volume sonoro) por meio da função verifica_num(). Em seguida, são transmitidas mensagens relacionadas a essas condições usando as funções transmitir_mensagem_umidade(), transmitir_mensagem_monoxido() e transmitir_mensagem_volume(). As mensagens são exibidas na tela.
 
 Depois disso, o programa pergunta ao usuário se ele deseja realizar outra análise ou sair. Se a resposta for "V", o loop continua e uma nova análise pode ser feita. Se a resposta for "S", o loop é interrompido e uma mensagem de saída é exibida agradecendo-o por usar o serviço.
+
+---
+##### Obs: Para mais informações, acesse nosso [github](https://github.com/lifesustent/Sprint.4.Python.git)
+---
